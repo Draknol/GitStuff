@@ -1,0 +1,208 @@
+m" translation="ปานกลาง" />
+      <value name="Ultra" translation="พิเศษ" />
+    </setting>
+    <setting name="Post-processing" translation="หลังการประมวลผล">
+      <value name="High" translation="สูง" />
+      <value name="Low" translation="ต่ำ" />
+      <value name="Medium" translation="ปานกลาง" />
+      <value name="Ultra" translation="ดีเยี่ยม" />
+    </setting>
+    <setting name="Resolution" translation="ความละเอียด" />
+    <setting name="Resolution Scale" translation="สัดส่วนความละเอียด">
+      <value name="100%" translation="100%" />
+      <value name="50%" translation="50%" />
+      <value name="75%" translation="75%" />
+    </setting>
+    <setting name="Shadows" translation="เงา">
+      <value name="High" translation="สูง" />
+      <value name="Low" translation="ต่ำ" />
+      <value name="Medium" translation="ปานกลาง" />
+      <value name="Ultra" translation="ดีเยี่ยม" />
+    </setting>
+    <setting name="Textures" translation="พื้นผิว">
+      <value name="High" translation="สูง" />
+      <value name="Low" translation="ต่ำ" />
+      <value name="Medium" translation="ปานกลาง" />
+      <value name="Ultra" translation="พิเศษ" />
+    </setting>
+    <setting name="View Distance" translation="ดูระยะทาง">
+      <value name="High" translation="สูง" />
+      <value name="Low" translation="ต่ำ" />
+      <value name="Medium" translation="ปานกลาง" />
+      <value name="Ultra" translation="ดีเยี่ยม" />
+    </setting>
+    <setting name="Visual Effects" translation="เอฟเฟกต์การแสดงผล">
+      <value name="High" translation="สูง" />
+      <value name="Low" translation="ต่ำ" />
+      <value name="Medium" translation="ปานกลาง" />
+      <value name="Ultra" translation="พิเศษ" />
+    </setting>
+  </language>
+  <language name="tr_TR" translation="">
+    <setting name="Anti-aliasing" translation="Kenar Yumuşatma">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Display Mode" translation="Ekran Modu">
+      <value name="Full-screen" translation="Tam Ekran" />
+      <value name="Windowed" translation="Pencere içinde" />
+      <value name="Windowed Borderless" translation="Pencere İçinde Kenarlıksız" />
+    </setting>
+    <setting name="Foliage" translation="Bitki Örtüsü">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Post-processing" translation="Son İşlem">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="En Yüksek" />
+    </setting>
+    <setting name="Resolution" translation="Çözünürlük" />
+    <setting name="Resolution Scale" translation="Çözünürlük Ölçeği">
+      <value name="100%" translation="%100" />
+      <value name="50%" translation="%50" />
+      <value name="75%" translation="%75" />
+    </setting>
+    <setting name="Shadows" translation="Gölgeler">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="En Yüksek" />
+    </setting>
+    <setting name="Textures" translation="Dokular">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="View Distance" translation="Görüş Mesafesi">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="En Yüksek" />
+    </setting>
+    <setting name="Visual Effects" translation="Görsel Efektler">
+      <value name="High" translation="Yüksek" />
+      <value name="Low" translation="Düşük" />
+      <value name="Medium" translation="Orta" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+  </language>
+  <language name="zh_CHS" translation="">
+    <setting name="Anti-aliasing" translation="平滑处理">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="Display Mode" translation="显示模式">
+      <value name="Full-screen" translation="全屏幕" />
+      <value name="Windowed" translation="窗口化" />
+      <value name="Windowed Borderless" translation="无边框窗口化" />
+    </setting>
+    <setting name="Foliage" translation="树叶">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="Post-processing" translation="后处理">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="Resolution" translation="分辨率" />
+    <setting name="Resolution Scale" translation="分辨率调整">
+      <value name="100%" translation="100%" />
+      <value name="50%" translation="50%" />
+      <value name="75%" translation="75%" />
+    </setting>
+    <setting name="Shadows" translation="阴影">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="Textures" translation="纹理">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="View Distance" translation="视距">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+    <setting name="Visual Effects" translation="视觉效果">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+  </language>
+  <language name="zh_CHT" translation="">
+    <setting name="Anti-aliasing" translation="消除鋸齒">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="Display Mode" translation="顯示模式">
+      <value name="Full-screen" translation="全螢幕" />
+      <value name="Windowed" translation="視窗型" />
+      <value name="Windowed Borderless" translation="無框視窗" />
+    </setting>
+    <setting name="Foliage" translation="植被">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="Post-processing" translation="後續處理">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="Resolution" translation="解析度" />
+    <setting name="Resolution Scale" translation="解析度縮放">
+      <value name="100%" translation="100%" />
+      <value name="50%" translation="50%" />
+      <value name="75%" translation="75%" />
+    </setting>
+    <setting name="Shadows" translation="陰影">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="Textures" translation="紋理材質">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="View Distance" translation="檢視距離">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超級" />
+    </setting>
+    <setting name="Visual Effects" translation="視覺效果">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Ultra" translation="超高" />
+    </setting>
+  </language>
+</game>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  DCMPA30���ޱ�#��B ���Y3�:hb0&ʁ�>�BU3!T�˂Hج	A��E���H10Ѽq�`"0�a4@r��� qӽ11"-�8�w���c���v�,��B������L���8��@�`%1IFD����HJHөX�����@�q%��k����Pb^�rYj0aP�.U�ҥV* J��И=@���FM�0�DpT��;��y �����
+`֯BO�	��!�A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

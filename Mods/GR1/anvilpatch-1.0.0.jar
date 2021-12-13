@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game name="payday_2">
+  <language name="ar_AE" translation="">
+    <setting name="Anisotropic Filtering" translation="تصفية الخصائص متباينة القياس">
+      <value name="16x" translation="16×" />
+      <value name="2x" translation="2×" />
+      <value name="4x" translation="4×" />
+      <value name="8x" translation="8×" />
+      <value name="Off" translation="إيقاف تشغيل" />
+    </setting>
+    <setting name="Display Mode" translation="وضع العرض">
+      <value name="Full-screen" translation="شاشة كاملة" />
+      <value name="Windowed" translation="مزود بإطارات" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="منع الترادف للعينات متعددة الإطارات لـ NVIDIA">
+      <value name="Off" translation="إيقاف" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Resolution" translation="الدقة" />
+    <setting name="Texture Quality" translation="جودة مواد الصور">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+      <value name="Medium" translation="متوسط" />
+      <value name="Very Low" translation="منخفض جداً" />
+    </setting>
+  </language>
+  <language name="cs_CZ" translation="">
+    <setting name="Anisotropic Filtering" translation="Anizotropní filtrování">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Vypnuto" />
+    </setting>
+    <setting name="Display Mode" translation="Režim zobrazení">
+      <value name="Full-screen" translation="Celá obrazovka" />
+      <value name="Windowed" translation="V okně" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Technologie vyhlazování hran NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Resolution" translation="Rozlišení" />
+    <setting name="Texture Quality" translation="Kvalita textury">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízká" />
+      <value name="Medium" translation="Střední" />
+      <value name="Very Low" translation="Velmi nízká" />
+    </setting>
+  </language>
+  <language name="da_DK" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotropisk filtrering">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Fra" />
+    </setting>
+    <setting name="Display Mode" translation="Skærmtilstand">
+      <value name="Full-screen" translation="Fuld skærm" />
+      <value name="Windowed" translation="Vinduesopdelt" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA udjævning med prøvetagning fra flere billeder">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Resolution" translation="Opløsning" />
+    <setting name="Texture Quality" translation="Teksturkvalitet">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+      <value name="Medium" translation="Mellem" />
+      <value name="Very Low" translation="Meget lav" />
+    </setting>
+  </language>
+  <language name="de_DE" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotrope Filterung">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Aus" />
+    </setting>
+    <setting name="Display Mode" translation="Anzeigemodus">
+      <value name="Full-screen" translation="Ganzer Bildschirm" />
+      <value name="Windowed" translation="Fenster" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame-Sample Anti-aliasing">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Resolution" translation="Auflösung" />
+    <setting name="Texture Quality" translation="Texturqualität">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Very Low" translation="Sehr niedrig" />
+    </setting>
+  </language>
+  <language name="el_GR" translation="">
+    <setting name="Anisotropic Filtering" translation="Ανισοτροπικό φιλτράρισμα">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Ανενεργό" />
+    </setting>
+    <setting name="Display Mode" translation="Λειτουργία οθόνης">
+      <value name="Full-screen" translation="Πλήρης οθόνη" />
+      <value name="Windowed" translation="Με παράθυρα" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Εξομάλυνση ορίων πολλαπλών καρέ με δειγματοληψία NVIDIA">
+      <value name="Off" translation="Ανενεργή" />
+      <value name="On" translation="Ενεργή" />
+    </setting>
+    <setting name="Resolution" translation="Ανάλυση" />
+    <setting name="Texture Quality" translation="Ποιότητα υφής">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+      <value name="Medium" translation="Μεσαία" />
+      <value name="Very Low" translation="Πολύ χαμηλή" />
+    </setting>
+  </language>
+  <language name="en_GB" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotropic Filtering">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Off" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Texture Quality" translation="Texture Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Very Low" translation="Very Low" />
+    </setting>
+  </language>
+  <language name="en_US" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotropic Filtering">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Off" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Texture Quality" translation="Texture Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Very Low" translation="Very Low" />
+    </setting>
+  </language>
+  <language name="es_ES" translation="">
+    <setting name="Anisotropic Filtering" translation="Filtrado anisotrópico">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Desactivado" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Antialiasing de muestras de trama múltiple de NVIDIA">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Resolution" translation="Resolución" />
+    <setting name="Texture Quality" translation="Calidad de textura">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Very Low" translation="Muy bajo" />
+    </setting>
+  </language>
+  <language name="es_MX" translation="">
+    <setting name="Anisotropic Filtering" translation="Filtrado anisotrópico">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Desactivado" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Suavizado de líneas muestreado por múltiples tramas de NVIDIA">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Resolution" translation="Resolución" />
+    <setting name="Texture Quality" translation="Calidad de la textura">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Media" />
+      <value name="Very Low" translation="Muy bajo" />
+    </setting>
+  </language>
+  <language name="fi_FI" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotrooppinen suodatus">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Pois" />
+    </setting>
+    <setting name="Display Mode" translation="Näyttötila">
+      <value name="Full-screen" translation="Kokonäyttö" />
+      <value name="Windowed" translation="Ikkuna" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIAn MFAA-reunanpehmennys (moniruutuinen näytteen reunanpehmennys)">
+      <value name="Off" translation="Pois" />
+      <value name="On" translation="Päällä" />
+    </setting>
+    <setting name="Resolution" translation="Tarkkuus" />
+    <setting name="Texture Quality" translation="Pintakuvion laatu">
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Very Low" translation="Erittäin alhainen" />
+    </setting>
+  </language>
+  <language name="fr_FR" translation="">
+    <setting name="Anisotropic Filtering" translation="Filtrage anisotrope">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Désactivé" />
+    </setting>
+    <setting name="Display Mode" translation="Mode d'affichage">
+      <value name="Full-screen" translation="Plein écran" />
+      <value name="Windowed" translation="Fenêtré" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Anti-crénelage à échantillonnage sur plusieurs frames (MFAA)">
+      <value name="Off" translation="Désactivé" />
+      <value name="On" translation="Activé" />
+    </setting>
+    <setting name="Resolution" translation="Résolution" />
+    <setting name="Texture Quality" translation="Qualité des textures">
+      <value name="High" translation="Élevée" />
+      <value name="Low" translation="Faible" />
+      <value name="Medium" translation="Moyenne" />
+      <value name="Very Low" translation="Très faible" />
+    </setting>
+  </language>
+  <language name="he_IL" translation="">
+    <setting name="Anisotropic Filtering" translation="סינון אנאיזוטרופי">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="מושבת" />
+    </setting>
+    <setting name="Display Mode" translation="מצב תצוגה">
+      <value name="Full-screen" translation="במלוא שטח הצג" />
+      <value name="Windowed" translation="תצוגה בחלון" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="החלקת שינון באמצעות דגימה מרובת מסגרות של NVIDIA">
+      <value name="Off" translation="כבוי" />
+      <value name="On" translation="מופעל" />
+    </setting>
+    <setting name="Resolution" translation="רזולוציה" />
+    <setting name="Texture Quality" translation="סינון מרקמים - איכות">
+      <value name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Medium" translation="בינונית" />
+      <value name="Very Low" translation="נמוכה מאד" />
+    </setting>
+  </language>
+  <language name="hu_HU" translation="">
+    <setting name="Anisotropic Filtering" translation="Anizotróp szűrés">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Ki" />
+    </setting>
+    <setting name="Display Mode" translation="Megjelenítési mód">
+      <value name="Full-screen" translation="Teljes képernyős" />
+      <value name="Windowed" translation="Ablakos" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA többképkockás mintavételes élsimítás">
+      <value name="Off" translation="Ki" />
+      <value name="On" translation="Be" />
+    </setting>
+    <setting name="Resolution" translation="Felbontás" />
+    <setting name="Texture Quality" translation="Textúraminőség">
+      <value name="High" translation="Magas" />
+      <value name="Low" translation="Alacsony" />
+      <value name="Medium" translation="Közepes" />
+      <value name="Very Low" translation="Nagyon alacsony" />
+    </setting>
+  </language>
+  <language name="it_IT" translation="">
+    <setting name="Anisotropic Filtering" translation="Filtro anisotropico">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="Disattivato" />
+    </setting>
+    <setting name="Display Mode" translation="Modalità di visualizzazione">
+      <value name="Full-screen" translation="Schermo intero" />
+      <value name="Windowed" translation="A finestra" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Antialias con campionamento multi-frame NVIDIA">
+      <value name="Off" translation="Disattivato" />
+      <value name="On" translation="Attivo" />
+    </setting>
+    <setting name="Resolution" translation="Risoluzione" />
+    <setting name="Texture Quality" translation="Qualità texture">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Basso" />
+      <value name="Medium" translation="Medio" />
+      <value name="Very Low" translation="Molto basso" />
+    </setting>
+  </language>
+  <language name="ja_JP" translation="">
+    <setting name="Anisotropic Filtering" translation="異方性フィルタリング">
+      <value name="16x" translation="16x" />
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+      <value name="Off" translation="オフ" />
+    </setting>
+    <setting name="Display Mode" translation="ディスプレイ モード">
+      <value name="Full-screen" translation="フルスクリーン" />
+      <value name="Windowed" translation="ウィンドウ表示" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA マルチフレーム サンプリング アンチエリアシング">
+      <value name="Off" translation="オフ" />
+      <value name="On" translation="オン" />
+    </setting>
+    <setting name="Resolution" translation="解像度" />
+    <setting name="Texture Quality" translation="テクスチャのクオリティ">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Medium" translation="中" />
+      <value name="Very Low" translation="非常に低" />
+    </setting>
+  </language>
+  <language nam
